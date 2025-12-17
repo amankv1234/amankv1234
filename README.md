@@ -7,11 +7,11 @@
 <h3 align="center">🚀 Software Engineer in Making | Open Source Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <a href="https://github.com/your-github-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Followers&style=social" />
+  <a href="https://github.com/amankv1234?tab=followers">
+    <img src="https://img.shields.io/github/followers/amankv1234?label=Followers&style=social" />
   </a>
-  <a href="https://komarev.com/ghpvc/?username=your-github-username">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=blue&style=flat" />
+  <a href="https://komarev.com/ghpvc/?username=amankv1234">
+    <img src="https://komarev.com/ghpvc/?username=amankv1234&label=Profile%20views&color=blue&style=flat" />
   </a>
   <a href="https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/">
     <img src="https://img.shields.io/badge/LinkedIn-Aman%20Vishwakarma-blue?logo=linkedin&style=flat" />
@@ -31,7 +31,7 @@
 - 🎯 Goal: **Software Engineer at a Product-Based Company**  
 - 📍 From **Uttar Pradesh, India**  
 
-📫 Reach me at: **av380088@gmail.com**
+📫 Reach me at: **amankumarvishwakarma767@gmail.com**
 
 ---
 
@@ -91,15 +91,15 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amankv1234&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amankv1234&show_icons=true&theme=radical" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankv1234&layout=compact&theme=radical" height="170"/>
 </p>
 
 ---
@@ -107,7 +107,7 @@
 ## 🤝 Connect With Me  
 
 - 💼 LinkedIn: [Aman Kumar Vishwakarma](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/)  
-- 📧 Email: **av380088@gmail.com**
+- 📧 Email: **amankumarvishwakarma767@gmail.com**
 
 ---
 
