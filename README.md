@@ -88,8 +88,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=amankv1234&theme=radical)
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amankv1234&theme=radical" />
+</p>
 
 
 <p align="center">
