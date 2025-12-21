@@ -91,8 +91,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amankv1234&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=amankv1234&theme=radical" height="170" />
 </p>
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amankv1234&show_icons=true&theme=radical" height="170"/>
