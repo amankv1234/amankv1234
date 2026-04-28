@@ -26,7 +26,7 @@
 - 💻 **MERN Stack Developer** (MongoDB, Express, React, Node.js)  
 - 🤖 Exploring **AI integration** in real-world applications  
 - 🌱 Currently learning **JavaScript (Advanced), DSA (Java), System Design basics**  
-- 🧠 Strong foundation in **C, Java, HTML, CSS**  
+- 🧠 Strong foundation in **C, C++, Java, HTML, CSS**  
 - 🌍 **Open Source & GSoC Aspirant**  
 - 🎯 Goal: **Software Engineer at a Product-Based Company**  
 - 📍 From **Uttar Pradesh, India**  
