@@ -66,6 +66,42 @@
 
 ---
 
+## 📌 Pinned Repositories
+
+<div align="center">
+
+[![EduSetu](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=College_Project_EduSetu&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/College_Project_EduSetu)
+[![Blog App](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=Blog_App&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/Blog_App)
+
+[![Private Chat](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=Private_chat&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/Private_chat)
+[![Paste App](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=My_paste_app&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/My_paste_app)
+
+[![Oppia Fork](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=oppia&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/oppia)
+[![SocialShareButton Fork](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=SocialShareButton&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/SocialShareButton)
+
+</div>
+
+---
+
+## 🗂️ All Repositories
+
+<div align="center">
+
+| # | Repository | Description | Tech | Links |
+|:---:|---|---|---|:---:|
+| 01 | 🎓 **College_Project_EduSetu** | AI-powered career guidance & personalized learning roadmap platform | MERN + Gemini API | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/College_Project_EduSetu) |
+| 02 | 📝 **Blog_App** | Secure full-stack blog with JWT auth, image upload & comment system | Node · EJS · MongoDB | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://blog-app-2-ze1i.onrender.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/Blog_App) |
+| 03 | 💬 **Private_chat** | Real-time private chat app with Socket.IO & dynamic room generation | JS · Socket.IO · Node | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://private-chat-0qf3.onrender.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/Private_chat) |
+| 04 | 📋 **My_paste_app** | Modern text snippet manager — save, organize & retrieve snippets | React · MERN | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://effervescent-palmier-207afe.netlify.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/My_paste_app) |
+| 05 | 📊 **Leet-Metric** | Interactive LeetCode analytics & performance tracking dashboard | JS · REST APIs | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://lnkd.in/gQ82fncP) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://lnkd.in/g-AfEt-R) |
+| 06 | 🌐 **aman-portfolio-3-d** | Premium 3D animated developer portfolio with immersive interactions | HTML · GSAP · Three.js | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://aman-portfolio-3-d.vercel.app/) |
+| 07 | 🟠 **oppia** *(fork)* | Open-source learning platform — GSoC 2026 contribution fork | Python · Angular | [![PR#1](https://img.shields.io/badge/PR%231-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/oppia/pull/1) [![PR#2](https://img.shields.io/badge/PR%232-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/oppia/pull/2) |
+| 08 | 🔵 **SocialShareButton** *(fork)* | AOSSIE open-source project — contributed CONTRIBUTING.md guide | JavaScript | [![PR#22](https://img.shields.io/badge/PR%2322%20Merged-6f42c1?style=flat-square&logo=github&logoColor=white)](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) |
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <div align="center">
