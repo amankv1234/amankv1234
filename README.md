@@ -34,27 +34,19 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const aman = {
-  name:        "Aman Kumar Vishwakarma",
-  education:   "B.Tech CSE @ Rajkiya Engineering College Kannauj — CGPA: 8.59",
-  location:    "Uttar Pradesh, India 🇮🇳",
-  portfolio:   "https://aman-portfolio-3-d.vercel.app/",
-
-  stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
-  languages:   ["JavaScript", "C++", "Python", "C"],
-  frontend:    ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind", "GSAP", "Framer Motion"],
-  backend:     ["Node.js", "Express.js", "REST APIs", "Socket.IO"],
-  tools:       ["Git", "Docker", "Postman", "VS Code", "n8n", "Linux"],
-  ai:          ["Gemini API", "AI-powered apps", "Workflow Automation"],
-
-  currentlyLearning: ["DSA in C++", "System Design", "Next.js", "DevOps"],
-  openSource:        "GSoC 2026 Aspirant — Oppia & AOSSIE contributor",
-
-  goal:        "Software Engineer @ Product-Based Company",
-  funFact:     "I turn ☕ into scalable web applications",
-};
-```
+- 🎓 **B.Tech CSE** @ Rajkiya Engineering College Kannauj — **CGPA: 8.59**
+- 📍 Uttar Pradesh, India
+- 💻 **Full Stack Developer** — MERN Stack (MongoDB, Express, React, Node.js)
+- 🤖 Building **AI-powered applications** with Gemini API
+- 🌐 Portfolio: [aman-portfolio-3-d.vercel.app](https://aman-portfolio-3-d.vercel.app/)
+- 💬 Languages: **JavaScript, C++, Python, C**
+- 🎨 Frontend: **React.js, Next.js, Tailwind CSS, GSAP, Framer Motion**
+- ⚙️ Backend: **Node.js, Express.js, REST APIs, Socket.IO**
+- 🗄️ Database: **MongoDB**
+- 🛠️ Tools: **Git, Docker, Postman, VS Code, n8n, Linux**
+- 🌍 **GSoC 2026 Aspirant** — contributing to Oppia & AOSSIE
+- 🎯 Goal: **Software Engineer @ Product-Based Company**
+- ⚡ Fun fact: I turn ☕ into scalable web applications
 
 ---
 
@@ -261,15 +253,15 @@ const aman = {
 
 ## 🎯 Currently Focused On
 
-```
-📌  DSA in C++          — LeetCode daily grinding & competitive problem-solving
-🔧  Advanced MERN       — scalable architecture & design patterns
-🤖  AI-powered apps     — Gemini API integrations & workflow automation
-🌍  Open Source         — GSoC 2026 prep (Oppia Foundation & AOSSIE)
-🐳  Docker & DevOps     — containerization & CI/CD fundamentals
-📐  System Design       — HLD/LLD concepts & interview preparation
-📝  Technical Writing   — improving documentation & communication skills
-```
+| | Topic | Details |
+|:---:|---|---|
+| 📌 | **DSA in C++** | LeetCode daily grinding & competitive problem-solving |
+| 🔧 | **Advanced MERN** | Scalable architecture & design patterns |
+| 🤖 | **AI-powered Apps** | Gemini API integrations & workflow automation |
+| 🌍 | **Open Source** | GSoC 2026 preparation — Oppia Foundation & AOSSIE |
+| 🐳 | **Docker & DevOps** | Containerization & CI/CD fundamentals |
+| 📐 | **System Design** | HLD/LLD concepts & interview preparation |
+| 📝 | **Technical Writing** | Improving documentation & communication skills |
 
 ---
 
