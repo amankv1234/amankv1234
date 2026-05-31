@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Open+Source+%7C+GSoC+2026+Aspirant+%F0%9F%8C%90;Top+10+National+Hackathon+Finalist+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Open+Source+Contributor+%7C+GSoC+2026+Aspirant+%F0%9F%8C%90;Top+10+National+Hackathon+Finalist+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,8 +14,9 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-3-d.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-aman--portfolio--3--d.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-3-d.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/)
+[![GitHub](https://img.shields.io/badge/GitHub-amankv1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amankv1234)
 [![LeetCode](https://img.shields.io/badge/LeetCode-amankv1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amankv1234/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumarvishwakarma767@gmail.com)
 
@@ -24,7 +25,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=amankv1234&label=Profile%20Views&color=00D9FF&style=flat-square)&nbsp;
-[![Followers](https://img.shields.io/github/followers/amankv1234?label=Followers&style=flat-square&color=00D9FF)](https://github.com/amankv1234?tab=followers)
+[![Followers](https://img.shields.io/github/followers/amankv1234?label=Followers&style=flat-square&color=00D9FF)](https://github.com/amankv1234?tab=followers)&nbsp;
+[![Stars](https://img.shields.io/github/stars/amankv1234?label=Total%20Stars&style=flat-square&color=FFD700)](https://github.com/amankv1234)
 
 </div>
 
@@ -41,15 +43,16 @@ const aman = {
 
   stack:       ["MongoDB", "Express.js", "React.js", "Node.js"],
   languages:   ["JavaScript", "C++", "Python", "C"],
+  frontend:    ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind", "GSAP", "Framer Motion"],
+  backend:     ["Node.js", "Express.js", "REST APIs", "Socket.IO"],
   tools:       ["Git", "Docker", "Postman", "VS Code", "n8n", "Linux"],
   ai:          ["Gemini API", "AI-powered apps", "Workflow Automation"],
-  animation:   ["GSAP", "Framer Motion"],
 
   currentlyLearning: ["DSA in C++", "System Design", "Next.js", "DevOps"],
   openSource:        "GSoC 2026 Aspirant — Oppia & AOSSIE contributor",
 
   goal:        "Software Engineer @ Product-Based Company",
-  funFact:     "I turn ☕ into scalable web apps",
+  funFact:     "I turn ☕ into scalable web applications",
 };
 ```
 
@@ -63,8 +66,8 @@ const aman = {
 |:---:|---|---|
 | 🏆 | **Top 10 — National Hackathon** | Finalist at MNNIT Allahabad, competing against top teams nationwide |
 | 🚀 | **E-Cell IIT Bombay NEC 2025** | National Entrepreneurship Challenge — India's largest startup competition |
-| 🤖 | **Freedom With AI Certificate** | Certified in AI fundamentals & real-world AI application |
-| ⚙️ | **n8n Workflow Automation** | Certified in building automated pipelines & workflow integrations |
+| 🤖 | **Freedom With AI Certificate** | Certified in AI fundamentals & real-world application |
+| ⚙️ | **n8n Workflow Automation** | Certified in building automated pipelines & integrations |
 | 🌍 | **GSoC 2026 Aspirant** | Active contributor to Oppia & AOSSIE for Google Summer of Code 2026 |
 
 </div>
@@ -78,15 +81,16 @@ const aman = {
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduSetu — AI Career Bridge
-> AI-powered career guidance & personalized learning roadmaps
+### 🎓 EduSetu — AI Career Bridge Platform
+> *AI-powered career guidance & personalized learning roadmaps*
 
-**Stack:** MERN + Gemini API
+**Stack:** MongoDB · Express · Node.js · Gemini API
 
-- 🔹 AI roadmaps, MCQ tests & skill gap analysis
+- 🔹 AI-generated personalized learning roadmaps
 - 🔹 Hackathon & internship recommender
+- 🔹 Skill evaluation tests & AI-generated MCQs
 - 🔹 Progress tracking with gamification
-- 🔹 Career guidance chat assistant
+- 🔹 Mentor & admin dashboard modules
 
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/College_Project_EduSetu)
 ![Status](https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square)
@@ -95,15 +99,16 @@ const aman = {
 <td width="50%" valign="top">
 
 ### 📝 Modern Blog Application
-> Secure full-stack blog with JWT auth & image upload
+> *Secure full-stack blog with JWT auth & image upload*
 
 **Stack:** Node.js · Express.js · EJS · JWT · MongoDB
 
-- 🔹 JWT authentication & role-based access
-- 🔹 Image upload & dynamic content management
-- 🔹 Full comment system · Deployed on Render
+- 🔹 JWT-based authentication & authorization
+- 🔹 Dynamic content management & image upload
+- 🔹 Full comment system
+- 🔹 Deployed on Render
 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://blog-app-2-ze1i.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://blog-app-2-ze1i.onrender.com/)
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/Blog_App)
 
 </td>
@@ -111,29 +116,31 @@ const aman = {
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Private Chat App
-> Real-time WebSocket chat with dynamic rooms
+### 💬 Private Chat Application
+> *Real-time WebSocket chat with dynamic rooms*
 
 **Stack:** HTML · CSS · JavaScript · Socket.IO · Node.js
 
-- 🔹 Real-time bidirectional messaging
-- 🔹 Dynamic room generation & live updates
+- 🔹 Real-time bidirectional communication
+- 🔹 Dynamic room generation
+- 🔹 Instant messaging with live updates
 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://private-chat-0qf3.onrender.com/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://private-chat-0qf3.onrender.com/)
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/Private_chat)
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Leet Metric — Analytics Dashboard
-> Interactive LeetCode stats & problem-solving insights
+### 📊 Leet Metric — LeetCode Analytics
+> *Interactive coding stats & performance dashboard*
 
-**Stack:** JavaScript · REST APIs · Data Visualization
+**Stack:** JavaScript · REST APIs · Data Visualization · HTML/CSS
 
-- 🔹 Real-time LeetCode stats & performance charts
-- 🔹 Visual coding progress tracking
+- 🔹 Real-time LeetCode stats fetching
+- 🔹 Problem-solving insights & analytics
+- 🔹 Interactive data visualizations
 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://lnkd.in/gQ82fncP)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://lnkd.in/gQ82fncP)
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://lnkd.in/g-AfEt-R)
 
 </td>
@@ -142,28 +149,30 @@ const aman = {
 <td width="50%" valign="top">
 
 ### 📋 Paste App — Snippet Manager
-> Modern text snippet & paste management tool
+> *Modern text snippet & paste management tool*
 
 **Stack:** React · Node.js · Express · MongoDB
 
-- 🔹 Save, organize & retrieve text snippets
-- 🔹 Clean UI · Deployed on Netlify
+- 🔹 Save, manage & organize text snippets
+- 🔹 Clean modern UI with fast performance
+- 🔹 Deployed on Netlify
 
-[![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://effervescent-palmier-207afe.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://effervescent-palmier-207afe.netlify.app/)
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/My_paste_app)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 3D Developer Portfolio
-> Premium animated portfolio with immersive 3D effects
+> *Premium animated portfolio with immersive 3D effects*
 
-**Stack:** HTML · CSS · JavaScript · Three.js · GSAP
+**Stack:** HTML · CSS · JavaScript · GSAP · Three.js
 
-- 🔹 3D animations & micro-interactions
-- 🔹 Complete skills, projects & open source showcase
+- 🔹 3D animations & immersive micro-interactions
+- 🔹 Full showcase of skills, projects & open source
+- 🔹 Deployed on Vercel
 
-[![Visit](https://img.shields.io/badge/Visit-Portfolio-00D9FF?style=flat-square&logo=vercel)](https://aman-portfolio-3-d.vercel.app/)
+[![Visit Site](https://img.shields.io/badge/Visit-Portfolio-00D9FF?style=flat-square&logo=vercel)](https://aman-portfolio-3-d.vercel.app/)
 
 </td>
 </tr>
@@ -217,6 +226,7 @@ const aman = {
 **Tools & DevOps**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -237,10 +247,12 @@ const aman = {
 <div align="center">
   <img src="https://github-readme-streak-stats.demolab.com?user=amankv1234&theme=tokyonight&hide_border=true&border_radius=8&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amankv1234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&icon_color=00D9FF&title_color=00D9FF&count_private=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankv1234&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=00D9FF" height="165"/>
 </div>
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankv1234&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%"/>
 </div>
@@ -250,29 +262,29 @@ const aman = {
 ## 🎯 Currently Focused On
 
 ```
-📌  DSA in C++          — LeetCode grinding & problem-solving daily
+📌  DSA in C++          — LeetCode daily grinding & competitive problem-solving
 🔧  Advanced MERN       — scalable architecture & design patterns
-🤖  AI-powered apps     — Gemini API integrations & automation
-🌍  Open Source         — GSoC 2026 prep (Oppia, AOSSIE)
+🤖  AI-powered apps     — Gemini API integrations & workflow automation
+🌍  Open Source         — GSoC 2026 prep (Oppia Foundation & AOSSIE)
 🐳  Docker & DevOps     — containerization & CI/CD fundamentals
-📐  System Design       — HLD/LLD concepts & interview prep
-📝  Technical Writing   — improving documentation & communication
+📐  System Design       — HLD/LLD concepts & interview preparation
+📝  Technical Writing   — improving documentation & communication skills
 ```
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [aman-portfolio-3-d.vercel.app](https://aman-portfolio-3-d.vercel.app/) |
-| 💼 LinkedIn | [Aman Kumar Vishwakarma](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/) |
-| 🐙 GitHub | [@amankv1234](https://github.com/amankv1234) |
-| 🧩 LeetCode | [amankv1234](https://leetcode.com/u/amankv1234/) |
-| 📧 Email | amankumarvishwakarma767@gmail.com |
-| 📱 Phone | +91 9598490801 |
+| 🌐 **Portfolio** | [aman-portfolio-3-d.vercel.app](https://aman-portfolio-3-d.vercel.app/) |
+| 💼 **LinkedIn** | [Aman Kumar Vishwakarma](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/) |
+| 🐙 **GitHub** | [@amankv1234](https://github.com/amankv1234) |
+| 🧩 **LeetCode** | [amankv1234](https://leetcode.com/u/amankv1234/) |
+| 📧 **Email** | amankumarvishwakarma767@gmail.com |
+| 📱 **Phone** | +91 9598490801 |
 
 </div>
 
