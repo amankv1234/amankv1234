@@ -30,6 +30,14 @@
 
 </div>
 
+<div align="center">
+
+![Nexus SoC](https://img.shields.io/badge/Nexus%20Spring%20of%20Code-7%20PRs%20Merged-2EA44F?style=for-the-badge&logo=git&logoColor=white)
+![GSSoC](https://img.shields.io/badge/GSSoC'26-Contributor%20%26%20Ambassador-FF6B00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
+![InAmigos](https://img.shields.io/badge/InAmigos%20Foundation-Web%20Dev%20Intern-4285F4?style=for-the-badge&logo=internetarchive&logoColor=white)
+
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
@@ -45,8 +53,44 @@
 - 🗄️ Database: **MongoDB**
 - 🛠️ Tools: **Git, Docker, Postman, VS Code, n8n, Linux**
 - 🌍 **GSoC 2026 Aspirant** — contributing to Oppia & AOSSIE
+- 🩷 **GSSoC'26 Contributor & Ambassador**
 - 🎯 Goal: **Software Engineer @ Product-Based Company**
 - ⚡ Fun fact: I turn ☕ into scalable web applications
+
+---
+
+## 💼 Experience
+
+<div align="center">
+<table>
+<tr>
+<td width="100%" valign="top">
+
+### 🌐 Web Developer Intern — InAmigos Foundation
+> *Completed Internship*
+
+- 🔹 Worked as a **Web Developer**, contributing to live, real-world web development projects
+- 🔹 Built and maintained responsive web applications as part of a collaborative team
+- 🔹 Strengthened frontend & backend development skills through hands-on project work
+- 🔹 Gained practical experience in agile workflows, version control & remote collaboration
+
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+## 🌱 Open Source Programs
+
+<div align="center">
+
+| Program | Role | Contribution | Status |
+|---|---|---|---|
+| 🟢 **Nexus Spring of Code (NSoC)** | Participant | **7 Pull Requests Merged** across project repositories | ✅ Completed |
+| 🩷 **GSSoC'26** (GirlScript Summer of Code) | Contributor & Ambassador | Actively contributing to open-source projects while representing GSSoC as Campus Ambassador | 🔵 Active |
+
+</div>
 
 ---
 
@@ -61,6 +105,9 @@
 | 🤖 | **Freedom With AI Certificate** | Certified in AI fundamentals & real-world application |
 | ⚙️ | **n8n Workflow Automation** | Certified in building automated pipelines & integrations |
 | 🌍 | **GSoC 2026 Aspirant** | Active contributor to Oppia & AOSSIE for Google Summer of Code 2026 |
+| 🟢 | **Nexus Spring of Code** | 7 Pull Requests successfully merged |
+| 🩷 | **GSSoC'26** | Selected as Contributor & Campus Ambassador |
+| 🌐 | **InAmigos Foundation** | Successfully completed Web Developer Internship |
 
 </div>
 
@@ -157,6 +204,8 @@
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/Private_chat)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📊 Leet Metric — LeetCode Analytics
@@ -172,8 +221,6 @@
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://lnkd.in/g-AfEt-R)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📋 Paste App — Snippet Manager
@@ -189,6 +236,8 @@
 [![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/My_paste_app)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌐 3D Developer Portfolio
@@ -219,6 +268,8 @@
 |---|---|---|---|
 | 🟠 **Oppia Foundation** | Open-source learning platform | [PR #1](https://github.com/amankv1234/oppia/pull/1) · [PR #2](https://github.com/amankv1234/oppia/pull/2) | 🔵 Active |
 | 🔵 **AOSSIE** | SocialShareButton | [PR #22 — Add CONTRIBUTING.md](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) | ✅ Submitted |
+| 🟢 **Nexus Spring of Code** | Multiple project repositories | 7 Pull Requests Merged | ✅ Completed |
+| 🩷 **GSSoC'26** | GirlScript Summer of Code | Contributor & Campus Ambassador | 🔵 Active |
 
 </div>
 
@@ -295,6 +346,7 @@
 | 🔧 | **Advanced MERN** | Scalable architecture & design patterns |
 | 🤖 | **AI-powered Apps** | Gemini API integrations & workflow automation |
 | 🌍 | **Open Source** | GSoC 2026 preparation — Oppia Foundation & AOSSIE |
+| 🩷 | **GSSoC'26** | Fulfilling Contributor & Ambassador responsibilities |
 | 🐳 | **Docker & DevOps** | Containerization & CI/CD fundamentals |
 | 📐 | **System Design** | HLD/LLD concepts & interview preparation |
 | 📝 | **Technical Writing** | Improving documentation & communication skills |
