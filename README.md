@@ -1,149 +1,101 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aman%20Kumar%20Vishwakarma&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Hey,%20I'm%20Aman%20👋&fontSize=42&fontColor=00F5D4&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20·%20Open%20Source%20Contributor%20·%20AI%20Builder&descAlignY=58&descSize=16&descColor=E0E0E0" width="100%"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22%2C+ai%3A+%22Gemini%22+%7D%3B;Building+things+that+ship%2C+not+just+demo.;GSoC+2026+Aspirant+%40+Oppia+%26+AOSSIE;GSSoC'26+Contributor+%26+Campus+Ambassador;Top+10+%40+National+Hackathon%2C+MNNIT+Allahabad" />
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Open+Source+Contributor+%7C+GSoC+2026+Aspirant+%F0%9F%8C%90;Top+10+National+Hackathon+Finalist+%F0%9F%8F%86;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
+<a href="https://aman-portfolio-3-d.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=0f0f1a" /></a>
+<a href="https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/amankv1234"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/amankv1234/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="mailto:amankumarvishwakarma767@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=amankv1234&label=PROFILE+VIEWS&color=00F5D4&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/amankv1234?label=FOLLOWERS&style=for-the-badge&color=00F5D4" />
+<img src="https://img.shields.io/github/stars/amankv1234?label=STARS&style=for-the-badge&color=FFD700" />
 
 </div>
 
 <br/>
 
-<div align="center">
+## ⚡ Snapshot
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-aman--portfolio--3--d.vercel.app-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://aman-portfolio-3-d.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/)
-[![GitHub](https://img.shields.io/badge/GitHub-amankv1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amankv1234)
-[![LeetCode](https://img.shields.io/badge/LeetCode-amankv1234-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/amankv1234/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amankumarvishwakarma767@gmail.com)
-
-</div>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=amankv1234&label=Profile%20Views&color=00D9FF&style=flat-square)&nbsp;
-[![Followers](https://img.shields.io/github/followers/amankv1234?label=Followers&style=flat-square&color=00D9FF)](https://github.com/amankv1234?tab=followers)&nbsp;
-[![Stars](https://img.shields.io/github/stars/amankv1234?label=Total%20Stars&style=flat-square&color=FFD700)](https://github.com/amankv1234)
-
-</div>
-
-<div align="center">
-
-![Nexus SoC](https://img.shields.io/badge/Nexus%20Spring%20of%20Code-7%20PRs%20Merged-2EA44F?style=for-the-badge&logo=git&logoColor=white)
-![GSSoC](https://img.shields.io/badge/GSSoC'26-Contributor%20%26%20Ambassador-FF6B00?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
-![InAmigos](https://img.shields.io/badge/InAmigos%20Foundation-Web%20Dev%20Intern-4285F4?style=for-the-badge&logo=internetarchive&logoColor=white)
-
-</div>
+```yaml
+name: Aman Kumar Vishwakarma
+role: Full Stack Developer (MERN) · AI Applications
+education: B.Tech CSE @ Rajkiya Engineering College Kannauj (CGPA 8.59)
+location: Uttar Pradesh, India
+currently:
+  - Preparing for GSoC 2026 → Oppia Foundation, AOSSIE
+  - Serving as GSSoC'26 Contributor & Campus Ambassador
+  - Sharpening DSA in C++ and System Design (HLD/LLD)
+looking_for: Software Engineer role @ product-based company
+fun_fact: "I turn ☕ into scalable web applications"
+```
 
 ---
 
-## 🧑‍💻 About Me
+## 🧬 About Me
 
-- 🎓 **B.Tech CSE** @ Rajkiya Engineering College Kannauj — **CGPA: 8.59**
-- 📍 Uttar Pradesh, India
-- 💻 **Full Stack Developer** — MERN Stack (MongoDB, Express, React, Node.js)
-- 🤖 Building **AI-powered applications** with Gemini API
-- 🌐 Portfolio: [aman-portfolio-3-d.vercel.app](https://aman-portfolio-3-d.vercel.app/)
-- 💬 Languages: **JavaScript, C++, Python, C**
-- 🎨 Frontend: **React.js, Next.js, Tailwind CSS, GSAP, Framer Motion**
-- ⚙️ Backend: **Node.js, Express.js, REST APIs, Socket.IO**
-- 🗄️ Database: **MongoDB**
-- 🛠️ Tools: **Git, Docker, Postman, VS Code, n8n, Linux**
-- 🌍 **GSoC 2026 Aspirant** — contributing to Oppia & AOSSIE
-- 🩷 **GSSoC'26 Contributor & Ambassador**
-- 🎯 Goal: **Software Engineer @ Product-Based Company**
-- ⚡ Fun fact: I turn ☕ into scalable web applications
+- 🎓 **B.Tech CSE**, Rajkiya Engineering College Kannauj — **CGPA 8.59**
+- 💻 Full-stack developer on the **MERN** stack, currently deep in **AI-powered app development** with the Gemini API
+- 🌍 Actively contributing to open source — **GSoC 2026 aspirant** at Oppia Foundation & AOSSIE
+- 🩷 **GSSoC'26 Contributor & Campus Ambassador**
+- 🏆 **Top 10 finalist**, National Hackathon @ MNNIT Allahabad
+- 🚀 Competed at **E-Cell IIT Bombay's National Entrepreneurship Challenge 2025**
+- 🎯 Goal — Software Engineer role at a product-based company
+
+---
+
+## 🛠️ Built With
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,cpp,py,c,react,nextjs,tailwind,html,css,nodejs,express,mongodb,socketio,git,github,docker,postman,vscode,linux&theme=dark" />
+
+<br/><br/>
+
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Framer](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-FF6B6B?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
 
 ---
 
 ## 💼 Experience
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td>
 
-### 🌐 Web Developer Intern — InAmigos Foundation
-> *Completed Internship*
-
-- 🔹 Worked as a **Web Developer**, contributing to live, real-world web development projects
-- 🔹 Built and maintained responsive web applications as part of a collaborative team
-- 🔹 Strengthened frontend & backend development skills through hands-on project work
-- 🔹 Gained practical experience in agile workflows, version control & remote collaboration
+**🌐 Web Developer Intern — InAmigos Foundation** *(Completed)*
+- Contributed to live, real-world web development projects as part of a collaborative team
+- Built and maintained responsive full-stack web applications
+- Strengthened agile workflows, version control & remote collaboration practices
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-## 🌱 Open Source Programs
+## 🌱 Open Source Journey
 
 <div align="center">
 
 | Program | Role | Contribution | Status |
-|---|---|---|---|
-| 🟢 **Nexus Spring of Code (NSoC)** | Participant | **7 Pull Requests Merged** across project repositories | ✅ Completed |
-| 🩷 **GSSoC'26** (GirlScript Summer of Code) | Contributor & Ambassador | Actively contributing to open-source projects while representing GSSoC as Campus Ambassador | 🔵 Active |
-
-</div>
-
----
-
-## 🏆 Achievements & Milestones
-
-<div align="center">
-
-| 🥇 | Achievement | Details |
-|:---:|---|---|
-| 🏆 | **Top 10 — National Hackathon** | Finalist at MNNIT Allahabad, competing against top teams nationwide |
-| 🚀 | **E-Cell IIT Bombay NEC 2025** | National Entrepreneurship Challenge — India's largest startup competition |
-| 🤖 | **Freedom With AI Certificate** | Certified in AI fundamentals & real-world application |
-| ⚙️ | **n8n Workflow Automation** | Certified in building automated pipelines & integrations |
-| 🌍 | **GSoC 2026 Aspirant** | Active contributor to Oppia & AOSSIE for Google Summer of Code 2026 |
-| 🟢 | **Nexus Spring of Code** | 7 Pull Requests successfully merged |
-| 🩷 | **GSSoC'26** | Selected as Contributor & Campus Ambassador |
-| 🌐 | **InAmigos Foundation** | Successfully completed Web Developer Internship |
-
-</div>
-
----
-
-## 📌 Pinned Repositories
-
-<div align="center">
-
-[![EduSetu](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=College_Project_EduSetu&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/College_Project_EduSetu)
-[![Blog App](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=Blog_App&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/Blog_App)
-
-[![Private Chat](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=Private_chat&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/Private_chat)
-[![Paste App](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=My_paste_app&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/My_paste_app)
-
-[![Oppia Fork](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=oppia&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/oppia)
-[![SocialShareButton Fork](https://github-readme-stats.vercel.app/api/pin/?username=amankv1234&repo=SocialShareButton&theme=tokyonight&hide_border=true&title_color=00D9FF&icon_color=00D9FF)](https://github.com/amankv1234/SocialShareButton)
-
-</div>
-
----
-
-## 🗂️ All Repositories
-
-<div align="center">
-
-| # | Repository | Description | Tech | Links |
-|:---:|---|---|---|:---:|
-| 01 | 🎓 **College_Project_EduSetu** | AI-powered career guidance & personalized learning roadmap platform | MERN + Gemini API | [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/College_Project_EduSetu) |
-| 02 | 📝 **Blog_App** | Secure full-stack blog with JWT auth, image upload & comment system | Node · EJS · MongoDB | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://blog-app-2-ze1i.onrender.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/Blog_App) |
-| 03 | 💬 **Private_chat** | Real-time private chat app with Socket.IO & dynamic room generation | JS · Socket.IO · Node | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://private-chat-0qf3.onrender.com/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/Private_chat) |
-| 04 | 📋 **My_paste_app** | Modern text snippet manager — save, organize & retrieve snippets | React · MERN | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://effervescent-palmier-207afe.netlify.app/) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/My_paste_app) |
-| 05 | 📊 **Leet-Metric** | Interactive LeetCode analytics & performance tracking dashboard | JS · REST APIs | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://lnkd.in/gQ82fncP) [![Code](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white)](https://lnkd.in/g-AfEt-R) |
-| 06 | 🌐 **aman-portfolio-3-d** | Premium 3D animated developer portfolio with immersive interactions | HTML · GSAP · Three.js | [![Live](https://img.shields.io/badge/Live-00D9FF?style=flat-square&logo=vercel&logoColor=white)](https://aman-portfolio-3-d.vercel.app/) |
-| 07 | 🟠 **oppia** *(fork)* | Open-source learning platform — GSoC 2026 contribution fork | Python · Angular | [![PR#1](https://img.shields.io/badge/PR%231-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/oppia/pull/1) [![PR#2](https://img.shields.io/badge/PR%232-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/amankv1234/oppia/pull/2) |
-| 08 | 🔵 **SocialShareButton** *(fork)* | AOSSIE open-source project — contributed CONTRIBUTING.md guide | JavaScript | [![PR#22](https://img.shields.io/badge/PR%2322%20Merged-6f42c1?style=flat-square&logo=github&logoColor=white)](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) |
+|:---|:---:|:---|:---:|
+| 🟠 **Oppia Foundation** | GSoC Aspirant | [PR #1](https://github.com/amankv1234/oppia/pull/1) · [PR #2](https://github.com/amankv1234/oppia/pull/2) | 🔵 Active |
+| 🔵 **AOSSIE — SocialShareButton** | Contributor | [PR #22 — CONTRIBUTING.md](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) | ✅ Merged |
+| 🟢 **Nexus Spring of Code** | Participant | 7 Pull Requests merged across repos | ✅ Completed |
+| 🩷 **GSSoC'26** | Contributor & Ambassador | Representing GSSoC on campus while shipping PRs | 🔵 Active |
 
 </div>
 
@@ -151,224 +103,132 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 EduSetu — AI Career Bridge Platform
-> *AI-powered career guidance & personalized learning roadmaps*
+### 🎓 [EduSetu — AI Career Bridge](https://github.com/amankv1234/College_Project_EduSetu)
+AI-powered career guidance & personalized learning roadmap platform.
+- AI-generated learning roadmaps & MCQ skill tests
+- Hackathon/internship recommender engine
+- Gamified progress tracking + mentor/admin dashboards
 
-**Stack:** MongoDB · Express · Node.js · Gemini API
-
-- 🔹 AI-generated personalized learning roadmaps
-- 🔹 Hackathon & internship recommender
-- 🔹 Skill evaluation tests & AI-generated MCQs
-- 🔹 Progress tracking with gamification
-- 🔹 Mentor & admin dashboard modules
-
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/College_Project_EduSetu)
-![Status](https://img.shields.io/badge/Status-In%20Dev-yellow?style=flat-square)
+`MongoDB` `Express` `Node.js` `Gemini API`
 
 </td>
 <td width="50%" valign="top">
 
-### 📝 Modern Blog Application
-> *Secure full-stack blog with JWT auth & image upload*
+### 📝 [Modern Blog App](https://github.com/amankv1234/Blog_App) · [Live](https://blog-app-2-ze1i.onrender.com/)
+Secure full-stack blogging platform with auth & media uploads.
+- JWT-based authentication & authorization
+- Image uploads, dynamic content, full comment system
 
-**Stack:** Node.js · Express.js · EJS · JWT · MongoDB
-
-- 🔹 JWT-based authentication & authorization
-- 🔹 Dynamic content management & image upload
-- 🔹 Full comment system
-- 🔹 Deployed on Render
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://blog-app-2-ze1i.onrender.com/)
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/Blog_App)
+`Node.js` `Express` `EJS` `JWT` `MongoDB`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Private Chat Application
-> *Real-time WebSocket chat with dynamic rooms*
+### 💬 [Private Chat](https://github.com/amankv1234/Private_chat) · [Live](https://private-chat-0qf3.onrender.com/)
+Real-time WebSocket chat app with dynamic room generation.
+- Bidirectional live messaging via Socket.IO
+- Instant, low-latency room-based conversations
 
-**Stack:** HTML · CSS · JavaScript · Socket.IO · Node.js
+`Socket.IO` `Node.js` `JavaScript`
 
-- 🔹 Real-time bidirectional communication
-- 🔹 Dynamic room generation
-- 🔹 Instant messaging with live updates
+</td>
+<td width="50%" valign="top">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://private-chat-0qf3.onrender.com/)
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/Private_chat)
+### 📋 [Paste App](https://github.com/amankv1234/My_paste_app) · [Live](https://effervescent-palmier-207afe.netlify.app/)
+Modern snippet manager to save, organize & retrieve text.
+- Clean, fast UI for snippet CRUD operations
+- Deployed on Netlify
+
+`React` `Node.js` `Express` `MongoDB`
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 📊 Leet Metric — LeetCode Analytics
-> *Interactive coding stats & performance dashboard*
+### 🌐 [3D Developer Portfolio](https://aman-portfolio-3-d.vercel.app/)
+Premium animated portfolio built with immersive 3D interactions and micro-animations, showcasing skills, projects & open-source work end-to-end.
 
-**Stack:** JavaScript · REST APIs · Data Visualization · HTML/CSS
-
-- 🔹 Real-time LeetCode stats fetching
-- 🔹 Problem-solving insights & analytics
-- 🔹 Interactive data visualizations
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://lnkd.in/gQ82fncP)
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://lnkd.in/g-AfEt-R)
-
-</td>
-<td width="50%" valign="top">
-
-### 📋 Paste App — Snippet Manager
-> *Modern text snippet & paste management tool*
-
-**Stack:** React · Node.js · Express · MongoDB
-
-- 🔹 Save, manage & organize text snippets
-- 🔹 Clean modern UI with fast performance
-- 🔹 Deployed on Netlify
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel)](https://effervescent-palmier-207afe.netlify.app/)
-[![Code](https://img.shields.io/badge/GitHub-Code-181717?style=flat-square&logo=github)](https://github.com/amankv1234/My_paste_app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 3D Developer Portfolio
-> *Premium animated portfolio with immersive 3D effects*
-
-**Stack:** HTML · CSS · JavaScript · GSAP · Three.js
-
-- 🔹 3D animations & immersive micro-interactions
-- 🔹 Full showcase of skills, projects & open source
-- 🔹 Deployed on Vercel
-
-[![Visit Site](https://img.shields.io/badge/Visit-Portfolio-00D9FF?style=flat-square&logo=vercel)](https://aman-portfolio-3-d.vercel.app/)
+`HTML` `CSS` `JavaScript` `GSAP` `Three.js`
 
 </td>
 </tr>
 </table>
-</div>
 
 ---
 
-## 🌍 Open Source Contributions
+## 📈 Live GitHub Stats
 
 <div align="center">
 
-### 🔥 GSoC 2026 Aspirant — Actively Contributing
+<img src="https://github-readme-stats.vercel.app/api?username=amankv1234&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&icon_color=00F5D4&title_color=00F5D4&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.demolab.com?user=amankv1234&theme=synthwave&hide_border=true&border_radius=10&ring=00F5D4&fire=FF6B6B&currStreakLabel=00F5D4" height="165"/>
 
-| Organization | Project | Contribution | Status |
-|---|---|---|---|
-| 🟠 **Oppia Foundation** | Open-source learning platform | [PR #1](https://github.com/amankv1234/oppia/pull/1) · [PR #2](https://github.com/amankv1234/oppia/pull/2) | 🔵 Active |
-| 🔵 **AOSSIE** | SocialShareButton | [PR #22 — Add CONTRIBUTING.md](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) | ✅ Submitted |
-| 🟢 **Nexus Spring of Code** | Multiple project repositories | 7 Pull Requests Merged | ✅ Completed |
-| 🩷 **GSSoC'26** | GirlScript Summer of Code | Contributor & Campus Ambassador | 🔵 Active |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankv1234&layout=compact&theme=synthwave&hide_border=true&border_radius=10&title_color=00F5D4" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amankv1234&theme=synthwave&hide_border=true&area=true&color=00F5D4&line=00F5D4&point=FF6B6B" height="165"/>
 
 </div>
+
+> These widgets are image-embeds that Vercel/Demolab render fresh on every profile visit — so your stats, streaks, and language breakdown are always live, no manual editing needed.
 
 ---
 
-## 🛠️ Tech Stack
+## 🐍 Contribution Snake (auto-updates daily)
 
 <div align="center">
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Backend & Database**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Tools & DevOps**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-**AI & APIs**
-
-![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white)
-
+<img src="https://raw.githubusercontent.com/amankv1234/amankv1234/output/github-contribution-grid-snake.svg" />
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=amankv1234&theme=tokyonight&hide_border=true&border_radius=8&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amankv1234&show_icons=true&theme=tokyonight&hide_border=true&border_radius=8&icon_color=00D9FF&title_color=00D9FF&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankv1234&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&title_color=00D9FF" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amankv1234&theme=tokyo-night&hide_border=true&area=true&color=00D9FF&line=00D9FF&point=FF6B6B" width="100%"/>
-</div>
+> Generated automatically every day at midnight UTC by the GitHub Action in `.github/workflows/snake.yml` — it eats your real contribution graph and commits the new SVG itself. Nothing to do manually.
 
 ---
 
 ## 🎯 Currently Focused On
 
-| | Topic | Details |
-|:---:|---|---|
-| 📌 | **DSA in C++** | LeetCode daily grinding & competitive problem-solving |
-| 🔧 | **Advanced MERN** | Scalable architecture & design patterns |
-| 🤖 | **AI-powered Apps** | Gemini API integrations & workflow automation |
-| 🌍 | **Open Source** | GSoC 2026 preparation — Oppia Foundation & AOSSIE |
-| 🩷 | **GSSoC'26** | Fulfilling Contributor & Ambassador responsibilities |
-| 🐳 | **Docker & DevOps** | Containerization & CI/CD fundamentals |
-| 📐 | **System Design** | HLD/LLD concepts & interview preparation |
-| 📝 | **Technical Writing** | Improving documentation & communication skills |
-
----
-
-## 🤝 Let's Connect & Collaborate
-
 <div align="center">
 
-| Platform | Link |
-|---|---|
-| 🌐 **Portfolio** | [aman-portfolio-3-d.vercel.app](https://aman-portfolio-3-d.vercel.app/) |
-| 💼 **LinkedIn** | [Aman Kumar Vishwakarma](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/) |
-| 🐙 **GitHub** | [@amankv1234](https://github.com/amankv1234) |
-| 🧩 **LeetCode** | [amankv1234](https://leetcode.com/u/amankv1234/) |
-| 📧 **Email** | amankumarvishwakarma767@gmail.com |
-| 📱 **Phone** | +91 9598490801 |
+| 📌 DSA in C++ | 🔧 Advanced MERN | 🤖 AI-Powered Apps | 🌍 GSoC Prep |
+|:---:|:---:|:---:|:---:|
+| Daily LeetCode grind | Scalable architecture | Gemini API integrations | Oppia & AOSSIE |
+
+| 🩷 GSSoC'26 | 🐳 Docker/DevOps | 📐 System Design | 📝 Tech Writing |
+|:---:|:---:|:---:|:---:|
+| Ambassador duties | CI/CD fundamentals | HLD/LLD interview prep | Better docs & READMEs |
 
 </div>
 
 ---
+
+## 🏆 Milestones
+
+<div align="center">
+
+🏆 Top 10 — National Hackathon, MNNIT Allahabad &nbsp;·&nbsp;
+🚀 E-Cell IIT Bombay NEC 2025 &nbsp;·&nbsp;
+🤖 Freedom With AI Certified &nbsp;·&nbsp;
+⚙️ n8n Workflow Automation Certified &nbsp;·&nbsp;
+🟢 7 PRs Merged — Nexus SoC &nbsp;·&nbsp;
+🩷 GSSoC'26 Contributor & Ambassador
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+| 🌐 Portfolio | 💼 LinkedIn | 🐙 GitHub | 🧩 LeetCode | 📧 Email |
+|:---:|:---:|:---:|:---:|:---:|
+| [Visit](https://aman-portfolio-3-d.vercel.app/) | [Connect](https://www.linkedin.com/in/aman-kumar-vishwakarma-08b223304/) | [@amankv1234](https://github.com/amankv1234) | [Profile](https://leetcode.com/u/amankv1234/) | [Mail](mailto:amankumarvishwakarma767@gmail.com) |
+
+</div>
 
 <div align="center">
 
@@ -376,6 +236,6 @@
 
 **⭐ Open to internships, collaborations & learning opportunities ⭐**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=100&section=footer" width="100%"/>
 
 </div>
