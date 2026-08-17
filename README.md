@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=230&section=header&text=Hey,%20I'm%20Aman%20👋&fontSize=42&fontColor=00F5D4&fontAlignY=38&animation=twinkling&desc=Full%20Stack%20Developer%20·%20Open%20Source%20Contributor%20·%20AI%20Builder&descAlignY=58&descSize=16&descColor=E0E0E0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22%2C+ai%3A+%22Gemini%22+%7D%3B;Building+things+that+ship%2C+not+just+demo.;GSoC+2026+Aspirant+%40+Oppia+%26+AOSSIE;GSSoC'26+Contributor+%26+Campus+Ambassador;Top+10+%40+National+Hackathon%2C+MNNIT+Allahabad" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F5D4&center=true&vCenter=true&width=750&lines=const+dev+%3D+%7B+stack%3A+%22MERN+%2B+TypeScript%22+%7D%3B;Building+things+that+ship%2C+not+just+demo.;GSSoC'26+Contributor+%26+Campus+Ambassador;Top+10+%40+National+Hackathon%2C+MNNIT+Allahabad;Open+Source+%7C+7%2B+PRs+Merged+across+repos" />
 
 <br/>
 
@@ -26,13 +26,13 @@
 
 ```yaml
 name: Aman Kumar Vishwakarma
-role: Full Stack Developer (MERN) · AI Applications
+role: Full Stack Developer (MERN + TypeScript) · AI Applications
 education: B.Tech CSE @ Rajkiya Engineering College Kannauj (CGPA 8.59)
 location: Uttar Pradesh, India
 currently:
-  - Preparing for GSoC 2026 → Oppia Foundation, AOSSIE
   - Serving as GSSoC'26 Contributor & Campus Ambassador
   - Sharpening DSA in C++ and System Design (HLD/LLD)
+  - Building AI-powered apps with the Gemini API
 looking_for: Software Engineer role @ product-based company
 fun_fact: "I turn ☕ into scalable web applications"
 ```
@@ -42,8 +42,8 @@ fun_fact: "I turn ☕ into scalable web applications"
 ## 🧬 About Me
 
 - 🎓 **B.Tech CSE**, Rajkiya Engineering College Kannauj — **CGPA 8.59**
-- 💻 Full-stack developer on the **MERN** stack, currently deep in **AI-powered app development** with the Gemini API
-- 🌍 Actively contributing to open source — **GSoC 2026 aspirant** at Oppia Foundation & AOSSIE
+- 💻 Full-stack developer on the **MERN** stack with **TypeScript**, currently building **AI-powered apps** with the Gemini API
+- 🌍 Open-source contributor — PRs merged across multiple organizations (live list below ⬇️)
 - 🩷 **GSSoC'26 Contributor & Campus Ambassador**
 - 🏆 **Top 10 finalist**, National Hackathon @ MNNIT Allahabad
 - 🚀 Competed at **E-Cell IIT Bombay's National Entrepreneurship Challenge 2025**
@@ -55,7 +55,7 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,cpp,py,c,react,nextjs,tailwind,html,css,nodejs,express,mongodb,socketio,git,github,docker,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,cpp,py,c,react,nextjs,tailwind,html,css,nodejs,express,mongodb,socketio,git,github,docker,postman,vscode,linux&theme=dark" />
 
 <br/><br/>
 
@@ -86,18 +86,26 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 ---
 
-## 🌱 Open Source Journey
+## 🌱 Open Source Programs
 
 <div align="center">
 
-| Program | Role | Contribution | Status |
-|:---|:---:|:---|:---:|
-| 🟠 **Oppia Foundation** | GSoC Aspirant | [PR #1](https://github.com/amankv1234/oppia/pull/1) · [PR #2](https://github.com/amankv1234/oppia/pull/2) | 🔵 Active |
-| 🔵 **AOSSIE — SocialShareButton** | Contributor | [PR #22 — CONTRIBUTING.md](https://github.com/AOSSIE-Org/SocialShareButton/pull/22) | ✅ Merged |
-| 🟢 **Nexus Spring of Code** | Participant | 7 Pull Requests merged across repos | ✅ Completed |
-| 🩷 **GSSoC'26** | Contributor & Ambassador | Representing GSSoC on campus while shipping PRs | 🔵 Active |
+| Program | Role | Status |
+|:---|:---:|:---:|
+| 🩷 **GSSoC'26** (GirlScript Summer of Code) | Contributor & Campus Ambassador | 🔵 Active |
+| 🟢 **Nexus Spring of Code (NSoC)** | Participant — 7 PRs merged | ✅ Completed |
+| 🔵 **AOSSIE** | Contributor | ✅ Merged |
 
 </div>
+
+---
+
+## 🔥 Recently Merged Pull Requests *(live)*
+
+<!--START_SECTION:pr-->
+<!--END_SECTION:pr-->
+
+> This list is fetched **directly from the GitHub API** and rewritten automatically every day by `.github/workflows/update-prs.yml` — every merged PR title, repo, and link updates itself. No manual editing.
 
 ---
 
@@ -175,17 +183,17 @@ Premium animated portfolio built with immersive 3D interactions and micro-animat
 
 </div>
 
-> These widgets are image-embeds that Vercel/Demolab render fresh on every profile visit — so your stats, streaks, and language breakdown are always live, no manual editing needed.
+> These widgets are image-embeds rendered fresh on every profile visit — stats, streaks, and language breakdown are always live, no manual editing needed.
 
 ---
 
-## 🐍 Contribution Snake (auto-updates daily)
+## 🐍 Contribution Snake *(auto-updates daily)*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/amankv1234/amankv1234/output/github-contribution-grid-snake.svg" />
 </div>
 
-> Generated automatically every day at midnight UTC by the GitHub Action in `.github/workflows/snake.yml` — it eats your real contribution graph and commits the new SVG itself. Nothing to do manually.
+> Generated automatically every day by `.github/workflows/snake.yml` — it eats your real contribution graph and commits the new SVG itself.
 
 ---
 
@@ -193,13 +201,13 @@ Premium animated portfolio built with immersive 3D interactions and micro-animat
 
 <div align="center">
 
-| 📌 DSA in C++ | 🔧 Advanced MERN | 🤖 AI-Powered Apps | 🌍 GSoC Prep |
+| 📌 DSA in C++ | 🔧 Advanced MERN + TS | 🤖 AI-Powered Apps | 🩷 GSSoC'26 |
 |:---:|:---:|:---:|:---:|
-| Daily LeetCode grind | Scalable architecture | Gemini API integrations | Oppia & AOSSIE |
+| Daily LeetCode grind | Scalable, typed architecture | Gemini API integrations | Ambassador duties |
 
-| 🩷 GSSoC'26 | 🐳 Docker/DevOps | 📐 System Design | 📝 Tech Writing |
+| 🐳 Docker/DevOps | 📐 System Design | 📝 Tech Writing | 🌍 Open Source |
 |:---:|:---:|:---:|:---:|
-| Ambassador duties | CI/CD fundamentals | HLD/LLD interview prep | Better docs & READMEs |
+| CI/CD fundamentals | HLD/LLD interview prep | Better docs & READMEs | Contributing across orgs |
 
 </div>
 
