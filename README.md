@@ -103,6 +103,25 @@ fun_fact: "I turn ☕ into scalable web applications"
 ## 🔥 Recently Merged Pull Requests *(live)*
 
 <!--START_SECTION:pr-->
+
+| Repository | Title | Merged On |
+|:---|:---|:---:|
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [style: apply formatting and resolve lint issues across codebase](https://github.com/AOSSIE-Org/SocialShareButton/pull/212) | 2026-08-06 |
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [SEO: Add complete metadata, sitemap, robots.txt, JSON-LD structured data & OG image](https://github.com/AOSSIE-Org/SocialShareButton/pull/219) | 2026-08-06 |
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [fix: swap copilot and three steps sections in getting started page](https://github.com/AOSSIE-Org/SocialShareButton/pull/177) | 2026-07-30 |
+| [`Arch-Scope/ArchScope-public`](https://github.com/Arch-Scope/ArchScope-public) | [feat: Add Architecture Diagram Export (PNG/SVG) (#39)](https://github.com/Arch-Scope/ArchScope-public/pull/55) | 2026-07-16 |
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [feat(landing-page): add new documentation page, auto-scroll cards, and UI polish](https://github.com/AOSSIE-Org/SocialShareButton/pull/171) | 2026-07-15 |
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [feat: add auto-init, auto-cleanup, and SPA route-change support (#165)](https://github.com/AOSSIE-Org/SocialShareButton/pull/170) | 2026-07-10 |
+| [`AOSSIE-Org/OrgExplorer`](https://github.com/AOSSIE-Org/OrgExplorer) | [refactor: simplify SocialShareButton – remove client‑side fallback UI](https://github.com/AOSSIE-Org/OrgExplorer/pull/93) | 2026-07-02 |
+| [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [updated readme file](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/3) | 2026-06-28 |
+| [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [phase 2 implemtend](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/2) | 2026-06-27 |
+| [`AOSSIE-Org/OrgExplorer`](https://github.com/AOSSIE-Org/OrgExplorer) | [feat: integrate Social Share button into Overview page](https://github.com/AOSSIE-Org/OrgExplorer/pull/88) | 2026-06-24 |
+| [`Arch-Scope/ArchScope-public`](https://github.com/Arch-Scope/ArchScope-public) | [fix: sync UI simulationParams to AQL terminal state (#49)](https://github.com/Arch-Scope/ArchScope-public/pull/50) | 2026-06-26 |
+| [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [implemt phase 4](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/1) | 2026-06-24 |
+| [`sachinyaduvanshi553-debug/CAREER-SETU---AI`](https://github.com/sachinyaduvanshi553-debug/CAREER-SETU---AI) | [final push](https://github.com/sachinyaduvanshi553-debug/CAREER-SETU---AI/pull/12) | 2026-06-18 |
+| [`SHAURYASANYAL3/E-vara`](https://github.com/SHAURYASANYAL3/E-vara) | [feat: integrate VirusTotal file scanning with Supabase Edge Function](https://github.com/SHAURYASANYAL3/E-vara/pull/154) | 2026-06-14 |
+| [`SHAURYASANYAL3/E-vara`](https://github.com/SHAURYASANYAL3/E-vara) | [feat: implement WebAuthn/Passkey passwordless authentication and Magic Link fallback](https://github.com/SHAURYASANYAL3/E-vara/pull/152) | 2026-06-14 |
+
 <!--END_SECTION:pr-->
 
 > This list is fetched **directly from the GitHub API** and rewritten automatically every day by `.github/workflows/update-prs.yml` — every merged PR title, repo, and link updates itself. No manual editing.
