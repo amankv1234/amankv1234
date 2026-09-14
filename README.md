@@ -106,6 +106,7 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 | Repository | Title | Merged On |
 |:---|:---|:---:|
+| [`AOSSIE-Org/Rein`](https://github.com/AOSSIE-Org/Rein) | [feat(settings): replace raw URL text with compact truncated copy row](https://github.com/AOSSIE-Org/Rein/pull/392) | 2026-09-14 |
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [fix(i18n): add missing untitled key to testbench_creator in locale files](https://github.com/CircuitVerse/cv-frontend-vue/pull/1233) | 2026-09-02 |
 | [`sachinyaduvanshi553-debug/CIVIC-PULSE`](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE) | [update backend java to nodejs](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE/pull/1) | 2026-08-21 |
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [ci: add automated SEO & crawl audit workflow for landing page](https://github.com/AOSSIE-Org/SocialShareButton/pull/229) | 2026-08-20 |
@@ -120,7 +121,6 @@ fun_fact: "I turn ☕ into scalable web applications"
 | [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [updated readme file](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/3) | 2026-06-28 |
 | [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [phase 2 implemtend](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/2) | 2026-06-27 |
 | [`AOSSIE-Org/OrgExplorer`](https://github.com/AOSSIE-Org/OrgExplorer) | [feat: integrate Social Share button into Overview page](https://github.com/AOSSIE-Org/OrgExplorer/pull/88) | 2026-06-24 |
-| [`Arch-Scope/ArchScope-public`](https://github.com/Arch-Scope/ArchScope-public) | [fix: sync UI simulationParams to AQL terminal state (#49)](https://github.com/Arch-Scope/ArchScope-public/pull/50) | 2026-06-26 |
 
 <!--END_SECTION:pr-->
 
