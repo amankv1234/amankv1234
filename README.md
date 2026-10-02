@@ -106,6 +106,7 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 | Repository | Title | Merged On |
 |:---|:---|:---:|
+| [`AOSSIE-Org/OrgExplorer`](https://github.com/AOSSIE-Org/OrgExplorer) | [feat(settings): Add two-step confirmation for destructive actions](https://github.com/AOSSIE-Org/OrgExplorer/pull/267) | 2026-10-01 |
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [feat: Add WebP image export format in Render Image dialog](https://github.com/CircuitVerse/cv-frontend-vue/pull/1340) | 2026-10-01 |
 | [`AOSSIE-Org/Rein`](https://github.com/AOSSIE-Org/Rein) | [feat(settings): replace raw URL text with compact truncated copy row](https://github.com/AOSSIE-Org/Rein/pull/392) | 2026-09-14 |
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [fix(i18n): add missing untitled key to testbench_creator in locale files](https://github.com/CircuitVerse/cv-frontend-vue/pull/1233) | 2026-09-02 |
@@ -120,7 +121,6 @@ fun_fact: "I turn ☕ into scalable web applications"
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [feat: add auto-init, auto-cleanup, and SPA route-change support (#165)](https://github.com/AOSSIE-Org/SocialShareButton/pull/170) | 2026-07-10 |
 | [`AOSSIE-Org/OrgExplorer`](https://github.com/AOSSIE-Org/OrgExplorer) | [refactor: simplify SocialShareButton – remove client‑side fallback UI](https://github.com/AOSSIE-Org/OrgExplorer/pull/93) | 2026-07-02 |
 | [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [updated readme file](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/3) | 2026-06-28 |
-| [`sachinyaduvanshi553-debug/ASTRONOVA`](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA) | [phase 2 implemtend](https://github.com/sachinyaduvanshi553-debug/ASTRONOVA/pull/2) | 2026-06-27 |
 
 <!--END_SECTION:pr-->
 
