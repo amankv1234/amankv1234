@@ -106,6 +106,7 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 | Repository | Title | Merged On |
 |:---|:---|:---:|
+| [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [feat: Add DebateAI logo and update branding assets](https://github.com/AOSSIE-Org/DebateAI/pull/704) | 2026-10-18 |
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [refactor(v1): convert XorGate, XnorGate, Buffer, ControlledInverter to TypeScript](https://github.com/CircuitVerse/cv-frontend-vue/pull/1274) | 2026-10-13 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [fix: improve mobile responsiveness and UI alignments across pages (fixes #583)](https://github.com/AOSSIE-Org/DebateAI/pull/670) | 2026-10-11 |
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [feat: Add WebP image export format in Render Image dialog](https://github.com/CircuitVerse/cv-frontend-vue/pull/1340) | 2026-10-01 |
@@ -120,7 +121,6 @@ fun_fact: "I turn ☕ into scalable web applications"
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [SEO: Add complete metadata, sitemap, robots.txt, JSON-LD structured data & OG image](https://github.com/AOSSIE-Org/SocialShareButton/pull/219) | 2026-08-06 |
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [fix: swap copilot and three steps sections in getting started page](https://github.com/AOSSIE-Org/SocialShareButton/pull/177) | 2026-07-30 |
 | [`Arch-Scope/ArchScope-public`](https://github.com/Arch-Scope/ArchScope-public) | [feat: Add Architecture Diagram Export (PNG/SVG) (#39)](https://github.com/Arch-Scope/ArchScope-public/pull/55) | 2026-07-16 |
-| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [feat(landing-page): add new documentation page, auto-scroll cards, and UI polish](https://github.com/AOSSIE-Org/SocialShareButton/pull/171) | 2026-07-15 |
 
 <!--END_SECTION:pr-->
 
