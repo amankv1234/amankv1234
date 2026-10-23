@@ -106,6 +106,8 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 | Repository | Title | Merged On |
 |:---|:---|:---:|
+| [`StabilityNexus/Chainvoice`](https://github.com/StabilityNexus/Chainvoice) | [feat(frontend): integrate @aossie-org/social-share-button component](https://github.com/StabilityNexus/Chainvoice/pull/289) | 2026-10-23 |
+| [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [fix(auth): correct redirect route after token expiry (#581)](https://github.com/AOSSIE-Org/DebateAI/pull/644) | 2026-10-22 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [fix(ui): adapt DebateAI logo color dynamically across light, dark, and contrast themes](https://github.com/AOSSIE-Org/DebateAI/pull/738) | 2026-10-20 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [feat: add shareable debate victory card with download, copy and social share](https://github.com/AOSSIE-Org/DebateAI/pull/698) | 2026-10-20 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [feat: Add DebateAI logo and update branding assets](https://github.com/AOSSIE-Org/DebateAI/pull/704) | 2026-10-18 |
@@ -119,8 +121,6 @@ fun_fact: "I turn ☕ into scalable web applications"
 | [`sachinyaduvanshi553-debug/CIVIC-PULSE`](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE) | [update backend java to nodejs](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE/pull/1) | 2026-08-21 |
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [ci: add automated SEO & crawl audit workflow for landing page](https://github.com/AOSSIE-Org/SocialShareButton/pull/229) | 2026-08-20 |
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [chore: remove ESLint tooling and fix Prettier ignore paths](https://github.com/AOSSIE-Org/SocialShareButton/pull/232) | 2026-08-20 |
-| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [style: apply formatting and resolve lint issues across codebase](https://github.com/AOSSIE-Org/SocialShareButton/pull/212) | 2026-08-06 |
-| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [SEO: Add complete metadata, sitemap, robots.txt, JSON-LD structured data & OG image](https://github.com/AOSSIE-Org/SocialShareButton/pull/219) | 2026-08-06 |
 
 <!--END_SECTION:pr-->
 
