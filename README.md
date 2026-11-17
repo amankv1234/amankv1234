@@ -106,6 +106,7 @@ fun_fact: "I turn ☕ into scalable web applications"
 
 | Repository | Title | Merged On |
 |:---|:---|:---:|
+| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [feat: implement QR code extension using dynamic CDN loading](https://github.com/AOSSIE-Org/SocialShareButton/pull/217) | 2026-11-17 |
 | [`StabilityNexus/Chainvoice`](https://github.com/StabilityNexus/Chainvoice) | [feat(frontend): integrate @aossie-org/social-share-button component](https://github.com/StabilityNexus/Chainvoice/pull/289) | 2026-10-23 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [fix(auth): correct redirect route after token expiry (#581)](https://github.com/AOSSIE-Org/DebateAI/pull/644) | 2026-10-22 |
 | [`AOSSIE-Org/DebateAI`](https://github.com/AOSSIE-Org/DebateAI) | [fix(ui): adapt DebateAI logo color dynamically across light, dark, and contrast themes](https://github.com/AOSSIE-Org/DebateAI/pull/738) | 2026-10-20 |
@@ -120,7 +121,6 @@ fun_fact: "I turn ☕ into scalable web applications"
 | [`CircuitVerse/cv-frontend-vue`](https://github.com/CircuitVerse/cv-frontend-vue) | [fix(i18n): add missing untitled key to testbench_creator in locale files](https://github.com/CircuitVerse/cv-frontend-vue/pull/1233) | 2026-09-02 |
 | [`sachinyaduvanshi553-debug/CIVIC-PULSE`](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE) | [update backend java to nodejs](https://github.com/sachinyaduvanshi553-debug/CIVIC-PULSE/pull/1) | 2026-08-21 |
 | [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [ci: add automated SEO & crawl audit workflow for landing page](https://github.com/AOSSIE-Org/SocialShareButton/pull/229) | 2026-08-20 |
-| [`AOSSIE-Org/SocialShareButton`](https://github.com/AOSSIE-Org/SocialShareButton) | [chore: remove ESLint tooling and fix Prettier ignore paths](https://github.com/AOSSIE-Org/SocialShareButton/pull/232) | 2026-08-20 |
 
 <!--END_SECTION:pr-->
 
